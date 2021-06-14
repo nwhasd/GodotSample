@@ -1,0 +1,8 @@
+C:\Users\hp\Documents\DodgetheGreeps\.mono\temp\bin\ExportDebug\DodgetheGreeps.dll
+C:\Users\hp\Documents\DodgetheGreeps\.mono\temp\bin\ExportDebug\DodgetheGreeps.pdb
+C:\Users\hp\Documents\DodgetheGreeps\.mono\temp\obj\ExportDebug\DodgetheGreeps.csprojAssemblyReference.cache
+C:\Users\hp\Documents\DodgetheGreeps\.mono\temp\obj\ExportDebug\DodgetheGreeps.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\DodgetheGreeps\.mono\temp\obj\ExportDebug\DodgetheGreeps.AssemblyInfo.cs
+C:\Users\hp\Documents\DodgetheGreeps\.mono\temp\obj\ExportDebug\DodgetheGreeps.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\DodgetheGreeps\.mono\temp\obj\ExportDebug\DodgetheGreeps.dll
+C:\Users\hp\Documents\DodgetheGreeps\.mono\temp\obj\ExportDebug\DodgetheGreeps.pdb

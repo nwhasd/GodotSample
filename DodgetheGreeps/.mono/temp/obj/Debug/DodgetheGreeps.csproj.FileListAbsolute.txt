@@ -1,0 +1,8 @@
+C:\USERS\HP\DOCUMENTS\DODGETHEGREEPS\.mono\temp\bin\Debug\DodgetheGreeps.dll
+C:\USERS\HP\DOCUMENTS\DODGETHEGREEPS\.mono\temp\bin\Debug\DodgetheGreeps.pdb
+C:\USERS\HP\DOCUMENTS\DODGETHEGREEPS\.mono\temp\obj\Debug\DodgetheGreeps.csprojAssemblyReference.cache
+C:\USERS\HP\DOCUMENTS\DODGETHEGREEPS\.mono\temp\obj\Debug\DodgetheGreeps.AssemblyInfoInputs.cache
+C:\USERS\HP\DOCUMENTS\DODGETHEGREEPS\.mono\temp\obj\Debug\DodgetheGreeps.AssemblyInfo.cs
+C:\USERS\HP\DOCUMENTS\DODGETHEGREEPS\.mono\temp\obj\Debug\DodgetheGreeps.csproj.CoreCompileInputs.cache
+C:\USERS\HP\DOCUMENTS\DODGETHEGREEPS\.mono\temp\obj\Debug\DodgetheGreeps.dll
+C:\USERS\HP\DOCUMENTS\DODGETHEGREEPS\.mono\temp\obj\Debug\DodgetheGreeps.pdb
